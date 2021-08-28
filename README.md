@@ -11,7 +11,7 @@
     - Python
     - Matlab
     - C++
-- 📫 You can reach me at [email](<kovacs.jozsef.viktor@gmail.com>)
+- 📫 You can reach me at [email](mailto:kovacs.jozsef.viktor@gmail.com)
 
 <!---
 jvkovacs/jvkovacs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
