@@ -7,11 +7,12 @@
   - Mathematical Modelling
   - Machine Learning & Artificial Intelligence (with scientific approach)
   - Mathematical Optimization (combinatorial, integer, linear, nonlinear, global etc.)
-  - Programming in
+  - Programming (mainly) in
     - Python
     - Matlab
-    - C++
-    - etc
+    - C/C++
+    - Java
+    - R
 - 📫 You can reach me at [email](mailto:kovacs.jozsef.viktor@gmail.com)
 
 <!---
