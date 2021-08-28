@@ -11,6 +11,7 @@
     - Python
     - Matlab
     - C++
+    - etc
 - 📫 You can reach me at [email](mailto:kovacs.jozsef.viktor@gmail.com)
 
 <!---
