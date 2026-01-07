@@ -5,8 +5,8 @@
 
 👀 **I’m interested in:**
 - Data Science
+- Machine Learning
 - Algorithm Development
-- Machine Learning & AI
 - Mathematical Modelling
 - Mathematical Optimization
 
