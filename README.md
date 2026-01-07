@@ -1,18 +1,17 @@
 - 👋 Hello World! 
   - My name's Jozsef Viktor Kovacs
-  - I'm a Researcher and Developer Mathematician
+  - I'm an Applied Mathematician, Algorithm Developer and Data Scientist
   - I come from Hungary and I also live there
 - 👀 I’m interested in 
-  - Algorithm Research
+  - Data Science
+  - Algorithm Development
   - Mathematical Modelling
-  - Machine Learning & Artificial Intelligence (with scientific approach)
-  - Mathematical Optimization (combinatorial, integer, linear, nonlinear, global etc.)
-  - Programming (mainly) in
+  - Mathematical Optimization
+  - Machine Learning & Artificial Intelligence
+- I do Programming with
     - Python
-    - Matlab
     - C/C++
-    - Java
-    - R
+    - Former: MATLAB, R, Java
 - 📫 You can reach me at [email](mailto:kovacs.jozsef.viktor@gmail.com)
 
 <!---
