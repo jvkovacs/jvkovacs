@@ -8,7 +8,7 @@
   - Mathematical Modelling
   - Mathematical Optimization
   - Machine Learning & Artificial Intelligence
-- I do Programming with
+- I do programming with
     - Python
     - C/C++
     - Former: MATLAB, R, Java
