@@ -1,14 +1,14 @@
 - 👋 Hello World! 
   - My name's Jozsef Viktor Kovacs
-  - I'm an Applied Mathematician, Algorithm Developer and Data Scientist
   - I come from Hungary and I also live there
+  - I'm an Applied Mathematician, Algorithm Developer and Data Scientist
 - 👀 I’m interested in 
   - Data Science
   - Algorithm Development
   - Mathematical Modelling
   - Mathematical Optimization
   - Machine Learning & Artificial Intelligence
-- I do programming with
+- 💻 I do programming with
     - Python
     - C/C++
     - Former: MATLAB, R, Java
