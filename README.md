@@ -8,8 +8,8 @@
 - Machine Learning
 - Artificial Intelligence
 - Algorithm Research & Development
-- Mathematical Modeling
 - Mathematical Optimization
+- Mathematical Modeling
 
   
 💻 **Programming:**
