@@ -1,15 +1,15 @@
 👋 **Hello World!**
-- My name's József Viktor Kovács
-- I come from Hungary 🇭🇺 and live there
-- Applied Mathematician | Algorithm Developer | Data Scientist
+- I'm József Viktor Kovács
+- Based in Hungary 🇭🇺
+- Applied Mathematician | Data Scientist | Algorithm Research & Development
 
 👀 **I’m interested in:**
+- Mathematical Modeling
+- Algorithm Design & Implementation
 - Data Science
 - Machine Learning
 - Artificial Intelligence
-- Algorithm Research & Development
 - Mathematical Optimization
-- Mathematical Modeling
 
   
 💻 **Programming:**
