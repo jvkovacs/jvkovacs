@@ -14,7 +14,7 @@
 - Symbolic AI
 - Statistical Signal Processing
 - Natural Language Processing
-- Computer Vision & Image Processing
+- Computer Vision | Image Processing
 
   
 💻 **Programming:**
