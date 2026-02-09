@@ -7,8 +7,10 @@
 - Mathematical Modeling
 - Algorithm Design & Implementation
 - Machine Learning | Deep Learning
-- Data Science | Statistical Inference
+- Data Mining | Statistical Inference
 - Mathematical Optimization
+- Scientific Computation
+- Graph Algorithms
 - Symbolic AI
 
   
