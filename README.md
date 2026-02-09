@@ -19,7 +19,7 @@
   
 💻 **Programming:**
 - Python | C
-- C++ | MATLAB | R | Java (former)
+- C++ | MATLAB | R | Java
   
 📫 **Reach me:** [email](mailto:kovacs.jozsef.viktor@gmail.com)
 
