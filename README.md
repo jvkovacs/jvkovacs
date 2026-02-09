@@ -6,9 +6,10 @@
 👀 **I’m interested in:**
 - Mathematical Modeling
 - Algorithm Design & Implementation
+- Symbolic AI
 - Data Science
 - Machine Learning
-- Artificial Intelligence
+- Statistical Inference
 - Mathematical Optimization
 
   
