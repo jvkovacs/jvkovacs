@@ -12,8 +12,8 @@
 - Scientific Computation
 - Graph Algorithms
 - Symbolic AI
-- Natural Language Processing
 - Statistical Signal Processing
+- Natural Language Processing
 - Computer Vision & Image Processing
 
   
