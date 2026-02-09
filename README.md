@@ -11,9 +11,10 @@
 - Mathematical Optimization
 - Scientific Computation
 - Graph Algorithms
-- Natural Language Processing
-- Computer Vision
 - Symbolic AI
+- Natural Language Processing
+- Statistical Signal Processing
+- Computer Vision & Image Processing
 
   
 💻 **Programming:**
