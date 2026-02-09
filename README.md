@@ -1,7 +1,7 @@
 👋 **Hello World!**
 - I'm József Viktor Kovács
 - Based in Hungary 🇭🇺
-- Applied Mathematician | Data Scientist | Algorithm Research & Development
+- Applied Mathematician & Data Scientist | Algorithm Research & Development
 
 👀 **I’m interested in:**
 - Mathematical Modeling
@@ -11,12 +11,14 @@
 - Mathematical Optimization
 - Scientific Computation
 - Graph Algorithms
+- Natural Language Processing
+- Computer Vision
 - Symbolic AI
 
   
 💻 **Programming:**
 - Python | C
-- Former: C++ | MATLAB | R | Java
+- C++ | MATLAB | R | Java (former)
   
 📫 **Reach me:** [email](mailto:kovacs.jozsef.viktor@gmail.com)
 
