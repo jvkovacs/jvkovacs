@@ -13,9 +13,8 @@
 
   
 💻 **Programming:**
-- Python
-- C/C++
-- Former: MATLAB, R, Java
+- Python | C
+- Former: C++ | MATLAB | R | Java
   
 📫 **Reach me:** [email](mailto:kovacs.jozsef.viktor@gmail.com)
 
